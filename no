@@ -1,0 +1,29 @@
+<head>
+    <meta charset=utf-8 />
+    <title>냠냠</title>
+</head>
+
+<body onload='ans();'>
+    <div id='wrap'>
+        <ul>
+            <h1>예린이가 먹고싶은 것</h1>
+            <li>치킨</li>
+            <li>김치찌개</li>
+            <li>떡볶이</li>
+            <li>볶음밥</li>
+        </ul>
+    </div>
+</body>
+
+</html>
+<script>
+    // run this function when the document is loaded
+    function ans() {
+
+        // create a couple of elements in an otherwise empty HTML page
+        var ul = document.getElementById("wrap").querySelector("ul");
+        var node = document.createElement("li");
+        node.appendChild(document.createTextNode("초콜릿"));
+        ul.appendChild(node);
+    }
+</script>
