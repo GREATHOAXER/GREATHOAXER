@@ -1,5 +1,5 @@
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=shorelinesquare)](https://solved.ac/shorelinesquare/)
-[학력]</br>
+<br>[학력]</br>
 -[2007.03.02 ~ 2017.01.18] Shanghai Korean International School(China)</br>
 -[2017.03.02 ~ Cont.] Hanyang University, Seoul, Korea Rep.(Major : Dept. of Information System, Multi-Major : Dept. of Computer Software)
 </br>
