@@ -1,4 +1,4 @@
-[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=greathoaxer)](https://solved.ac/greathoaxer/)
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=chris4642)](https://solved.ac/chris4642/)
 
 <hr>
 <h3>Skills</h3>
